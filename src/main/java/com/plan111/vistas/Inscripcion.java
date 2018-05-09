@@ -16,8 +16,12 @@ public class Inscripcion {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+<<<<<<< HEAD
 //        Estado estado = new Estado();
         
+=======
+        Inscripcion inscripcion= new Inscripcion()
+>>>>>>> origin/master
     }
     
 }
