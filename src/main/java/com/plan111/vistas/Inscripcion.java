@@ -5,8 +5,6 @@
  */
 package com.plan111.vistas;
 
-import com.plan111.modelo.Estado;
-
 /**
  *
  * @author Nicolas Oliva
@@ -18,7 +16,7 @@ public class Inscripcion {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Estado estado = new Estado();
+//        Estado estado = new Estado();
         
     }
     
