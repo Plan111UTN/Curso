@@ -6,6 +6,11 @@ import lombok.Setter;
 
 import javax.persistence.*;
 
+/**
+ *
+ * @author Guido Cavallo
+ */
+
 @Entity
 @Table(name = "Materia")
 @Getter @Setter @NoArgsConstructor
