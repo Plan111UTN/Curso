@@ -16,6 +16,7 @@ public class Inscripcion {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Inscripcion inscripcion= new Inscripcion()
     }
     
 }
